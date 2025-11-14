@@ -1,5 +1,7 @@
 ED6001 – Medical Image Analysis
+
 Mini Project - Segmentation of Gliomas in MRI (BraTS Dataset)
+
 Submitted By - Sparsh Sharma (DA24C028), Sharvasti Sarkar (DA24C018), Navya Garg (DA24C011)
 
 
